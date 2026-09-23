@@ -706,8 +706,14 @@ section {
     }
 
     .nav-links li {
-        padding: 12px 0;
-    }
+    padding: 12px 0;
+    text-align: center;
+}
+
+.nav-links a {
+    display: block;
+    text-align: center;
+}
 
     .hero {
         flex-direction: column;
